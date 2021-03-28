@@ -40,6 +40,9 @@ video {
   margin: 2rem;
   border: solid var(--secondary-colour) 5px;
   border-radius: 5px;
+
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
 
 .videos {
