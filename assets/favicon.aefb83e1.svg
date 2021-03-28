@@ -1,0 +1,14 @@
+<svg width="114" height="58" viewBox="0 0 114 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo">
+<g id="Cloud">
+<ellipse id="Ellipse 1" cx="18.5181" cy="36.4728" rx="18.5181" ry="18.9118" fill="#3B323B"/>
+<ellipse id="Ellipse 2" cx="35.052" cy="16.8856" rx="16.534" ry="16.8856" fill="#3B323B"/>
+<ellipse id="Ellipse 3" cx="54.8928" cy="22.2889" rx="16.534" ry="16.8856" fill="#3B323B"/>
+<rect id="Rectangle 2" x="18.5181" y="24.3152" width="66.1359" height="31.0694" fill="#3B323B"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M84.9957 55.3846C90.4032 51.5737 93.9131 45.4296 93.9131 38.4991C93.9131 26.9353 84.1417 17.561 72.0882 17.561C60.0347 17.561 50.2633 26.9353 50.2633 38.4991C50.2633 45.4296 53.7732 51.5737 59.1807 55.3846H84.9957Z" fill="#3B323B"/>
+</g>
+<path id="Polygon 1" d="M74 37L108.5 17.0814L108.5 56.9186L74 37Z" fill="#3B323B"/>
+<path id="Intersect" fill-rule="evenodd" clip-rule="evenodd" d="M90.7879 27.6822L74.3478 37.1739L91.8981 47.3066C93.1952 44.6281 93.9193 41.6425 93.9193 38.4946C93.9193 34.5383 92.7755 30.8382 90.7879 27.6822Z" fill="#D24847"/>
+<circle id="Ellipse 5" cx="47" cy="33" r="15" stroke="#D24847" stroke-width="4"/>
+</g>
+</svg>
